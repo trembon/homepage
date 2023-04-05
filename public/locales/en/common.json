@@ -571,5 +571,9 @@
         "books": "Books",
         "podcastsDuration": "Duration",
         "booksDuration": "Duration"
+    },
+    "whatsupdocker": {
+        "updates_available": "Updates",
+        "watched_containers": "Containers"
     }
 }
